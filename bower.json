@@ -2,7 +2,11 @@
   "name": "cen.labels",
   "homepage": "https://github.com/pajko/cen.labels",
   "description": "web component with two labels and a button",
-  "main": "",
+  "main": {
+	"cen.labels.component.css",
+	"cen.labels.component.html",
+	"cen.labels.component.js"
+  },
   "license": "MIT",
   "ignore": [
     "**/.*",
