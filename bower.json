@@ -1,0 +1,14 @@
+{
+  "name": "cen.labels",
+  "homepage": "https://github.com/pajko/cen.labels",
+  "description": "web component with two labels and a button",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
