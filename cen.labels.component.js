@@ -17,6 +17,6 @@ function CenLabelsModel(params) {
     this.TestLabel2 = params.test2 || '';
 
     this.ChangeTest1 = function () {
-        this.TestLabel1('AAA');
+        this.TestLabel1('AAAAA');
     }
 }
